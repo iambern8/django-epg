@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="django-epg" generator-info-url="https://github.com/iambern8/django-epg" date="20261022080427">
+<tv generator-info-name="django-epg" generator-info-url="https://github.com/iambern8/django-epg" date="20261023080256">
   <channel id="Das.Erste.de">
     <display-name lang="de">Das Erste</display-name>
     <url>http://www.tvtoday.de</url>
